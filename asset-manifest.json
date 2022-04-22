@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fce7c6a0.css",
+    "main.js": "/static/js/main.bd98e043.js",
+    "static/media/Oval.svg": "/static/media/Oval.637767355fa554c602fc8978369c0cc3.svg",
+    "index.html": "/index.html",
+    "static/media/icon-category-movie.svg": "/static/media/icon-category-movie.6861d0ce9036ac864b87dc5aff6570c3.svg",
+    "static/media/icon-nav-bookmark.svg": "/static/media/icon-nav-bookmark.98baebb5ba9c09f0f990004a22d3c5a5.svg",
+    "static/media/icon-nav-movies.svg": "/static/media/icon-nav-movies.9736398bb33476a8e42823a15bc9c801.svg",
+    "static/media/icon-bookmark-full.svg": "/static/media/icon-bookmark-full.361afed00144e45cd54d64697d9a877d.svg",
+    "static/media/icon-nav-home.svg": "/static/media/icon-nav-home.db9582214e697be8ac6acc83f8c4a28e.svg",
+    "static/media/icon-search.svg": "/static/media/icon-search.cbc8d670ebd27b023c9868d5850d79c5.svg",
+    "static/media/logo.svg": "/static/media/logo.7d4aedc9f44f15655a966567c57a1f37.svg",
+    "static/media/icon-nav-tv-series.svg": "/static/media/icon-nav-tv-series.fa6c35e8b997ffb0a1b17eebf9e61ced.svg",
+    "static/media/icon-play.svg": "/static/media/icon-play.8371f8d28787ad27a68ec37af3a6c7b0.svg",
+    "static/media/icon-bookmark-empty.svg": "/static/media/icon-bookmark-empty.470f26b412dde9754f40762f1c15721e.svg",
+    "main.fce7c6a0.css.map": "/static/css/main.fce7c6a0.css.map",
+    "main.bd98e043.js.map": "/static/js/main.bd98e043.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fce7c6a0.css",
+    "static/js/main.bd98e043.js"
+  ]
+}
